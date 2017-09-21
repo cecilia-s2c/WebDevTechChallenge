@@ -1,8 +1,15 @@
+# Welcome!
+I'm very excited to see you've come until here, this challenge is a shorter version of what should be, but, as you must know I've been late with other commitments and the eartquake this week didn't help much on this. So, this challenge has been created to use less time. The deadline it's this friday 22 at midnight. Please, if you have any issue, reason, commitment (as volunteer for Cruz Roja, etc) please let me know and we can find a way to give you more time. Personally, I think 5-8 hours are enought time to resolve this but the internet connectity is not stable in many places, that's why I'm giving 2 days to complete it.
+
+If you have any question, any comment, whatever, please let me know.
+
+Stay safe
+
 # Prepare environment
 * Create a PGP key.
 * Use PGP to send an encrypted message to cecilia@safe2choose.org with your public PGP key attached. The public key you need for cecilia@safe2choose.org can be found here https://mega.nz/#!LNoVCDrK!FWnL-nPmo4XDuFpfFERPWerAYcxVcZUtFf2YaXw12fg
 * Create a Github account. For privacy and security reasons, create a new Github account just for these exercises
-* Clone this repository https://github.com/cecilia-s2c/webDevChallenge and copy the contents into the new project you just created.
+* Clone this repository https://github.com/cecilia-s2c/WebDevTechChallenge and copy the contents into the new project you just created.
 
 # Step 1: Code review
 * Review the code into the "Step1" folder for security vulnerabilities. This Meteor project is meant to keep track of the number of times each user clicks on the button on the client. The count per user is recorded in two places: On the Meteor server that the app is connected to. On a server located at secure.safe2choose.org (this server does not actually exist).
@@ -21,7 +28,7 @@
 # Step 3: Wordpress customization
 * Review the file `functions.php` into "Step3" folder and add comments to the function #gform_display_weeks explaining what it does.
 * Register a new sidebar that will be used for advertising, the container is a div with the class "module--primary" and the title is an h3 with the class "module__title", name and description must be translatable and have "safe2choose-test" as the value for the domain parameter.
-* The file "testimonials.php" is the template used for https://safe2choose.org/our-testimonials/, make the changes necessary to:
+* The file "testimonials.php" is an older version of the template used for https://safe2choose.org/testimonials-on-abortion/, make the changes necessary to:
 * Show the extract of every testimonial instead of the whole content
 * Use the title as a hyperlink to see the full testimonial
 * Implement a simple pagination at the end of the testimonials list and show only 6 testimonials per page

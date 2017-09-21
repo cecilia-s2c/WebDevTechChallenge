@@ -1,5 +1,5 @@
 # Welcome!
-I'm very excited to see you've come until here, this challenge is a shorter version of what should be, but, as you must know I've been late with other commitments and the eartquake this week didn't help much on this. So, this challenge has been created to use less time. The deadline it's this friday 22 at midnight. Please, if you have any issue, reason, commitment (as volunteer for Cruz Roja, etc) please let me know and we can find a way to give you more time. Personally, I think 5-8 hours are enought time to resolve this but the internet connectity is not stable in many places, that's why I'm giving 2 days to complete it.
+I'm very excited to see you've come until here, this challenge is a shorter version of what should be, but, as you must know I've been late with other commitments and the eartquake this week didn't help much on this. So, this challenge has been created to use less time. The deadline it's this friday 22 at midnight. Please, if you have any issue, reason, commitment (as volunteer for Cruz Roja, etc) please let me know and we can find a way to give you more time. Personally, I think 5-8 hours are enough time to resolve this but the internet connectity is not stable in many places, that's why I'm giving 2 days to complete it.
 
 If you have any question, any comment, whatever, please let me know.
 
